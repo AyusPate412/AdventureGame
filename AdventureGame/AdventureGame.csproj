@@ -86,5 +86,74 @@
   <ItemGroup>
     <None Include="Resources\ElevenLabs_2024-03-23T01_54_23_Adam.wav" />
   </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\celtic-7136.mp3" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\celtic-7136.wav" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\medieval_village_atmosphere-79282.wav" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Menu Screen Sound.wav" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\village elder running away.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\1.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\2.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\3.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\4.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\5.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\6.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\7.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\11.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\14.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Congrats you won.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\dead.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\food poisioning.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\thorn bushpit.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\cave entrance.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\monster lurking.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\menuImage.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Final boss fight.jpeg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\evil king.jpg" />
+  </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>
