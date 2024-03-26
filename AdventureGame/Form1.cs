@@ -93,7 +93,7 @@ namespace AdventureGame
                     outputLabel.Text = "You recieved a 1 time use potion to kill the monster defending the relic, you suited up in a very powerful armor, and have tools to fight with. On your journey you hear rustling in the bushes. Do you Investigate the noise or retreat?";
                     option1Label.Text = "Investigate";
                     option2Label.Text = "Retreat";
-                    mainPictureBox.Image = Properties.Resources.page5;
+                    mainPictureBox.Image = Properties.Resources.page3;
                     break;
                 case 6:
                     outputLabel.Text = "You tried acting brave but you didn't have any tools to defeat the monster and you lost. Play again?";
@@ -117,7 +117,7 @@ namespace AdventureGame
                     outputLabel.Text = "It was a harmless animal. It's getting dark. Do you make shelter or keep going to find relic before night fall?";
                     option1Label.Text = "Make shelter";
                     option2Label.Text = "Find relic";
-                    mainPictureBox.Image = Properties.Resources.page14;
+                    mainPictureBox.Image = Properties.Resources.page5;
                     break;
                 case 10:
                     outputLabel.Text = "You ran away and were unable to do the task the king hires someone else for the job. Play again?";
